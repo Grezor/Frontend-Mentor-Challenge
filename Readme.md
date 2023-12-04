@@ -1,9 +1,7 @@
 # Challenges Frontend Mentor
 
 > [!NOTE] 
-> Creation : 04/03/2023
-> Update : 04/12/2023
-
+> Creation : 04/03/2023 | Last update : 04/12/2023 
 
 ## Introduction : 
 Frontend Mentor est une plateforme en ligne qui propose une collection diversifiée de projets de développement web pour les concepteurs et les développeurs front-end. Ces projets sont conçus pour permettre aux personnes en apprentissage de mettre en pratique leurs compétences en HTML, CSS et JavaScript en travaillant sur des maquettes interactives.
